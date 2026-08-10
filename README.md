@@ -28,25 +28,25 @@ Sou Desenvolvedor Full Stack, apaixonado por tecnologia e desenvolvimento de sis
 
 ### Backend
 
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,php" />
 </div>
 
 ### Frontend
 
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
 
 ### Banco de Dados
 
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </div>
 
 ### DevOps & Ferramentas
 
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
 </div>
 
@@ -84,6 +84,6 @@ Sou Desenvolvedor Full Stack, apaixonado por tecnologia e desenvolvimento de sis
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wallyson-DBR\&color=blueviolet\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Wallyson-DBR&color=blueviolet&style=for-the-badge)
 
 </div>
