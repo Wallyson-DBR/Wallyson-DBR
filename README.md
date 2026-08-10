@@ -52,17 +52,8 @@ Sou Desenvolvedor Full Stack, apaixonado por tecnologia e desenvolvimento de sis
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Wallyson-DBR&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallyson-DBR&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br>
+## 📊 GitHub
 
 <div align="center">
 
@@ -76,7 +67,11 @@ Sou Desenvolvedor Full Stack, apaixonado por tecnologia e desenvolvimento de sis
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wallyson-DBR/Wallyson-DBR/output/github-contribution-grid-snake.svg" alt="Snake animation">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wallyson-DBR/Wallyson-DBR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wallyson-DBR/Wallyson-DBR/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Wallyson-DBR/Wallyson-DBR/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
